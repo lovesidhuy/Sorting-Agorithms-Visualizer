@@ -2,7 +2,7 @@
 # Sorting Visualizer
 #Check below for test cases
 
-This is a personal project that aims to provide an interactive visualization of various sorting algorithms. The project allows users to generate a random array and observe the sorting process using different algorithms such as Bubble Sort, Selection Sort, Insertion Sort, and Quicksort.
+This is a project that aims to provide an interactive visualization of various sorting algorithms. The project allows users to generate a random array and observe the sorting process using different algorithms such as Bubble Sort, Selection Sort, Insertion Sort, and Quicksort.
 
 ## Features
 
